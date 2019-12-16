@@ -1,4 +1,4 @@
-Type Safe Lightning Web Components (LWC)
+# Type Safe Lightning Web Components (LWC)
 
 This article will demonstrate why using types in JavaScript can be helpful and provide a method to easily declare and use types in an SFDX LWC project. Types will provide features such as intellisense and IDE errors when defined types are not followed.
 
